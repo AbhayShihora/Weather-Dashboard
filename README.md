@@ -23,7 +23,10 @@ A responsive and user-friendly **Weather Application** built using **HTML, CSS, 
 * **Tools:** VS Code, Git, GitHub
 
 ---
+## 📸Scrennshort
+<img width="1536" height="1024" alt="Weather App" src="https://github.com/user-attachments/assets/79f202e4-4c38-48d3-969c-9ae5a898d18a" />
 
+---
 ## 📂 Project Structure
 
 ```
